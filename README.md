@@ -1,5 +1,5 @@
 # A8WpfConcertTickets
-Assignment#8 the C# Advanced Program:
+Assignment#8 (C# Advanced Program):
 
 This assignment was built using Windows Presentation Foundation  WPF with C#
 - It demonstrates using LINQ to SQL connection to grab/add data from/to a database table. 
